@@ -33,8 +33,8 @@ body.dark {
 body.blue {
   --bg-color: #cce6ff;
   --text-color: #1f000b;
-  --primary-color: #0976db;
-  --primary-color-dark: #0976db;
+  --primary-color: #5d97ce;
+  --primary-color-dark: #5d97ce;
 }
 
 .container {
