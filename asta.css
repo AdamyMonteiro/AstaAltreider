@@ -158,6 +158,13 @@ a.instaIcon img {
   margin-right: 8px;
   align-items: center;
 }
+a.siteIcon img {
+  display: flex;
+  width: 25px;
+  height: 25px;
+  margin-right: 8px;
+  align-items: center;
+}
 p {
   width: 100%;
   display: block;
